@@ -2,7 +2,7 @@
 ## codebasics resume project challenge
 The Challenge was all about creating a dashboard for the Supply chain Management team of Atliq Mart.
 
-Visualization Tool : PowerBi
+Visualization Tool : PowerBi 
 Database : Excel
 
 Process includes
